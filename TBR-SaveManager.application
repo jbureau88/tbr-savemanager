@@ -8,14 +8,14 @@
         <beforeApplicationStartup />
       </update>
     </subscription>
-    <deploymentProvider codebase="https://raw.githubusercontent.com/jbureau-qc/tbr-savemanager/master/TBR-SaveManager.application" />
+    <deploymentProvider codebase="https://raw.githubusercontent.com/jbureau-qc/tbr-savemanager/master/WC3-SaveManager.application" />
   </deployment>
   <compatibleFrameworks xmlns="urn:schemas-microsoft-com:clickonce.v2">
     <framework targetVersion="4.6.1" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="Application Files\TBR-SaveManager_1_3_0_4\TBR-SaveManager.exe.manifest" size="9366">
-      <assemblyIdentity name="TBR-SaveManager.exe" version="1.3.0.4" publicKeyToken="f2e6d3c242f1d503" language="neutral" processorArchitecture="msil" type="win32" />
+    <dependentAssembly dependencyType="install" codebase="Application Files\WC3-SaveManager_1_3_0_5\WC3-SaveManager.exe.manifest" size="9366">
+      <assemblyIdentity name="WC3-SaveManager.exe" version="1.3.0.4" publicKeyToken="f2e6d3c242f1d503" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
