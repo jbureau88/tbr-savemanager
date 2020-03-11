@@ -1,1 +1,1 @@
-# tbr-savemanager
+# WC3 Save Manager
